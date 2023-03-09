@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jppoamaral&layout=compact&theme=dracula)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jppoamaral&layout=compact&theme=dracula)-->
 
 <!--
 **jppoamaral/jppoamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
